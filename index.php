@@ -20,7 +20,7 @@
 			<br>
 			<a href="forloop.php" >For loop</a>
       <br>
-      <a href="lenght.php">World Lenght</a>
+      <a href="lenght.php">Word Lenght</a>
 	</div>
 
 </body>
